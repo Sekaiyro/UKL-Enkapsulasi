@@ -7,7 +7,7 @@ package enkapsulasi;
 
 /**
  *
- * @author pdewa
+ * @author Adrian
  */
 public class Enkapsulasi {
 
