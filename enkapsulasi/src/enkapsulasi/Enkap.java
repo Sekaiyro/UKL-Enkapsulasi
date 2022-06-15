@@ -7,7 +7,7 @@ package enkapsulasi;
 
 /**
  *
- * @author pdewa
+ * @author Adrian
  */
 class Enkap {
 public int A = 9000;
